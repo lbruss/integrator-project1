@@ -32,19 +32,12 @@ Foram separados os equipamentos, identificados os dispositivos, iniciadas instal
 
 Durante esta etapa foram utilizados os seguintes equipamentos:
 
-3 computadores servidores
-
-2 notebooks
-
-1 roteador D-Link Dual Band
-
-6 cabos de rede
-
-Monitores para os servidores
-
-2 monitores auxiliares para os notebooks
-
-
+- 3 computadores servidores
+- 2 notebooks
+- 1 roteador D-Link Dual Band
+- 6 cabos de rede
+- Monitores para os servidores
+- 2 monitores auxiliares para os notebooks
 
 ---
 
@@ -54,6 +47,7 @@ A infraestrutura do projeto foi planejada da seguinte forma:
 
 |-------------|--------|
 | Equipamento | Função |
+|-------------|--------|
 |Servidor Debian 01|Firewall e recebimento da internet|
 |Servidor Debian 02|Servidor Tomcat, MySQL e Java|
 |Windows Server 2025| 	Serviços Windows Server|
