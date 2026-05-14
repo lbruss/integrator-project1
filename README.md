@@ -102,7 +102,7 @@ Durante o primeiro dia foram realizadas as seguintes atividades:
 
 **Bancada inicial dos notebooks**
 
-![](imagem1.heic)
+![Imagem](imagem1.png)
 
 A imagem mostra os notebooks utilizados no projeto já conectados na bancada para instalação do Windows 10 e testes de rede.
 
