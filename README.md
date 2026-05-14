@@ -45,7 +45,6 @@ Durante esta etapa foram utilizados os seguintes equipamentos:
 
 A infraestrutura do projeto foi planejada da seguinte forma:
 
-|-------------|--------|
 | Equipamento | Função |
 |-------------|--------|
 |Servidor Debian 01|Firewall e recebimento da internet|
