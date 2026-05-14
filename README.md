@@ -110,7 +110,6 @@ A imagem mostra os notebooks utilizados no projeto já conectados na bancada par
 
 **Servidor Debian**
 
-
 Imagem2
 
 A imagem mostra um dos servidores Debian utilizados no projeto, responsável pelos serviços de firewall e aplicações Linux.
