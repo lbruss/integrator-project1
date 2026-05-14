@@ -109,6 +109,9 @@ A imagem mostra os notebooks utilizados no projeto já conectados na bancada par
 ---
 
 **Servidor Debian**
+![imagem1](https://github.com/user-attachments/assets/60e4a52e-f513-4e76-b8e5-8af76715eefe)
+
+
 
 Imagem2
 
