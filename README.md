@@ -102,7 +102,7 @@ Durante o primeiro dia foram realizadas as seguintes atividades:
 
 **Bancada inicial dos notebooks**
 
-![](imagem1.jpg)
+![](imagem1.heic)
 
 A imagem mostra os notebooks utilizados no projeto já conectados na bancada para instalação do Windows 10 e testes de rede.
 
@@ -110,7 +110,7 @@ A imagem mostra os notebooks utilizados no projeto já conectados na bancada par
 
 **Servidor Debian**
 
-![](imagem2.jpg)
+![](imagem2.heic)
 
 A imagem mostra um dos servidores Debian utilizados no projeto, responsável pelos serviços de firewall e aplicações Linux.
 
@@ -118,7 +118,7 @@ A imagem mostra um dos servidores Debian utilizados no projeto, responsável pel
 
 **Instalação do Windows Server 2025**
 
-![](imagem3.jpg)
+![](imagem3.heic)
 
 A imagem mostra o processo de instalação do Windows Server 2025 em andamento.
 
