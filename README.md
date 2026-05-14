@@ -52,6 +52,7 @@ Monitores para os servidores
 
 A infraestrutura do projeto foi planejada da seguinte forma:
 
+|-------------|--------|
 | Equipamento | Função |
 |Servidor Debian 01|Firewall e recebimento da internet|
 |Servidor Debian 02|Servidor Tomcat, MySQL e Java|
@@ -59,6 +60,7 @@ A infraestrutura do projeto foi planejada da seguinte forma:
 |Roteador D-Link Dual Band|Access Point da rede|
 |Notebook 01|	Windows 10|
 |Notebook 02|	Windows 10|
+|----------------------|
 
 ---
 
