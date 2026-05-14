@@ -98,7 +98,7 @@ Durante o primeiro dia foram realizadas as seguintes atividades:
 
 ---
 
-## 6. Registro Fotográfico
+## 6. Registro Fotográficos
 
 **Bancada inicial dos notebooks**
 
