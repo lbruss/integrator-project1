@@ -9,7 +9,7 @@
 * Daniel Vieira
 * Eduardo Mantovani
 * Enzo Becker
-* Ezequiel
+* Ezequiel Soares
 * João Vitor
 * Ruan Anderson
 * Victor Gabriel
