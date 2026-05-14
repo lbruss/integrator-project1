@@ -1,4 +1,3 @@
-![imagem1](https://github.com/user-attachments/assets/7690a4c0-a8d8-40df-88f3-769271c07517)
 ![GitHub License](https://img.shields.io/github/license/lbruss/integrator-project1)
 
 # Projeto Integrador (Documetação Parcial)
@@ -103,7 +102,7 @@ Durante o primeiro dia foram realizadas as seguintes atividades:
 
 **Bancada inicial dos notebooks**
 
-imagem1
+![](imagem1.jpg)
 
 A imagem mostra os notebooks utilizados no projeto já conectados na bancada para instalação do Windows 10 e testes de rede.
 
@@ -111,7 +110,7 @@ A imagem mostra os notebooks utilizados no projeto já conectados na bancada par
 
 **Servidor Debian**
 
-imagem2
+![](imagem2.jpg)
 
 A imagem mostra um dos servidores Debian utilizados no projeto, responsável pelos serviços de firewall e aplicações Linux.
 
@@ -119,7 +118,7 @@ A imagem mostra um dos servidores Debian utilizados no projeto, responsável pel
 
 **Instalação do Windows Server 2025**
 
-imagem3
+![](imagem3.jpg)
 
 A imagem mostra o processo de instalação do Windows Server 2025 em andamento.
 
