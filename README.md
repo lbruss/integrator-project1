@@ -2,6 +2,8 @@
 
 # Projeto Integrador (Documetação Parcial)
 
+## Dia 1 (14/05/2026)
+
 **Integrantes do grupo:**
 
 * Bruss Loza
@@ -12,5 +14,3 @@
 * João Vitor
 * Ruan Anderson
 * Victor Gabriel
-
-## Dia 1 (14/05/2026)
