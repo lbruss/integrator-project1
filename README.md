@@ -30,3 +30,16 @@ Nossa equipe ficou responsável pela implementação de toda a infraestrutura ne
 - organização e segurança da infraestrutura
 
 O objetivo do projeto é garantir que o sistema AutoLock funcione de maneira segura, estável e organizada, permitindo a comunicação entre servidores, banco de dados e dispositivos conectados à rede corporativa da empresa.
+
+# Membros da Empresa
+
+| Nome | Cargo |
+|---|---|
+| Bruss Loza | Gerente se Infraestrutura / Líder Técnico |
+| Eduardo Mantovani | Administrador Windows Server |
+| Enzo Becker | Analista de Infraestrutura Windows |
+| Ruan Anderson | Analista de Segurança e Firewall |
+| João Vitor | Técnico de Redes e Firewall |
+| Daniel Vieira | Analista de Redes e conectividade |
+| Ezequiel Soares | Técnico de Redes |
+| Victor Gabriel | Administrador Linux e Banco de dados |
