@@ -1,6 +1,6 @@
 # Sobre a Empresa
 
-A **[A definir]** é uma empresa especializada em serviços de infraestrutura de TI, manutenção de computadores e implementação de redes locais corporativas.
+A **ConnectStar** é uma empresa especializada em serviços de infraestrutura de TI, manutenção de computadores e implementação de redes locais corporativas.
 
 Nossa equipe atua na montagem, configuração e gerenciamento de ambientes computacionais, oferecendo soluções voltadas para conectividade, organização de redes, segurança e suporte técnico para pequenas e médias empresas.
 
