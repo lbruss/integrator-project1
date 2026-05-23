@@ -35,7 +35,7 @@ O objetivo do projeto é garantir que o sistema AutoLock funcione de maneira seg
 
 | Nome | Cargo |
 |---|---|
-| Bruss Loza | Gerente se Infraestrutura / Líder Técnico |
+| Bruss Loza | Gerente de Infraestrutura / Líder Técnico |
 | Eduardo Mantovani | Administrador Windows Server |
 | Enzo Becker | Analista de Infraestrutura Windows |
 | Ruan Anderson | Analista de Segurança e Firewall |
