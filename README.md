@@ -16,7 +16,7 @@ Entre os serviços realizados pela empresa estão:
 
 Neste projeto, a empresa foi contratada pela **Sysccode**, responsável pelo desenvolvimento do sistema **AutoLoc**.
 
-O AutoLock é uma aplicação desenvolvida com o objetivo de localizar serviços automotivos na cidade de São Paulo, funcionando de maneira semelhante a plataformas de geolocalização e mapas, permitindo que usuários encontrem oficinas, auto elétricas, borracharias, mecânicas e outros serviços automotivos próximos de sua localização.
+O AutoLoc é uma aplicação desenvolvida com o objetivo de localizar serviços automotivos na cidade de São Paulo, funcionando de maneira semelhante a plataformas de geolocalização e mapas, permitindo que usuários encontrem oficinas, auto elétricas, borracharias, mecânicas e outros serviços automotivos próximos de sua localização.
 
 Nossa equipe ficou responsável pela implementação de toda a infraestrutura necessária para o funcionamento da aplicação, incluindo:
 
