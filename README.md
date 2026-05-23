@@ -39,7 +39,7 @@ O objetivo do projeto é garantir que o sistema AutoLock funcione de maneira seg
 | Eduardo Mantovani | Administrador Windows Server |
 | Enzo Becker | Analista de Infraestrutura Windows |
 | Ruan Anderson | Analista de Segurança e Firewall |
-| João Vitor | Técnico de Redes e Firewall |
+| João Vitor | Técnico de Redes |
 | Daniel Vieira | Analista de Redes e conectividade |
-| Ezequiel Soares | Técnico de Redes |
+| Ezequiel Soares | Técnico de Redes e Firewall |
 | Victor Gabriel | Administrador Linux e Banco de dados |
