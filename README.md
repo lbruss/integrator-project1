@@ -14,7 +14,7 @@ Entre os serviços realizados pela empresa estão:
 - configuração de firewall e segurança de rede
 - suporte técnico e manutenção preventiva
 
-Neste projeto, a empresa foi contratada pela **Sysccode**, responsável pelo desenvolvimento do sistema **AutoLock**.
+Neste projeto, a empresa foi contratada pela **Sysccode**, responsável pelo desenvolvimento do sistema **AutoLoc**.
 
 O AutoLock é uma aplicação desenvolvida com o objetivo de localizar serviços automotivos na cidade de São Paulo, funcionando de maneira semelhante a plataformas de geolocalização e mapas, permitindo que usuários encontrem oficinas, auto elétricas, borracharias, mecânicas e outros serviços automotivos próximos de sua localização.
 
