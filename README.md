@@ -31,6 +31,10 @@ Nossa equipe ficou responsável pela implementação de toda a infraestrutura ne
 
 O objetivo do projeto é garantir que o sistema AutoLock funcione de maneira segura, estável e organizada, permitindo a comunicação entre servidores, banco de dados e dispositivos conectados à rede corporativa da empresa.
 
+# Topologia da Infraestrutura
+
+![](diagrama.png)
+
 # Membros da Empresa
 
 | Nome | Cargo |
