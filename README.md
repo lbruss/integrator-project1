@@ -33,7 +33,7 @@ O objetivo do projeto é garantir que o sistema AutoLock funcione de maneira seg
 
 # Topologia da Infraestrutura
 
-![](diagrama.png)
+![](topologia.png)
 
 # Membros da Empresa
 
