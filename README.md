@@ -35,6 +35,8 @@ O objetivo do projeto é garantir que o sistema AutoLock funcione de maneira seg
 
 ![](topologia.png)
 
+- Link para o download do diagrama da [Infraestrutura]([https://www.tinkercad.com/things/c2GnOyYcnS1-robo-bug-ver-20](https://github.com/lbruss/integrator-project1/raw/refs/heads/main/infraautoloc.pkt))
+
 # Membros da Empresa
 
 | Nome | Cargo |
