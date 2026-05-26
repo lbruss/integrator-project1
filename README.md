@@ -35,7 +35,8 @@ O objetivo do projeto é garantir que o sistema AutoLock funcione de maneira seg
 
 ![](topologia.png)
 
-- Link para o download do diagrama da rede: [Infraestrutura](https://github.com/lbruss/integrator-project1/raw/refs/heads/main/infraautoloc.pkt)
+- Link para o download do diagrama completo: [Infraestrutura](https://github.com/lbruss/integrator-project1/raw/refs/heads/main/infraautoloc.pkt)
+> Obs: É necessario baixar o Cisco Packet Tracer primeiro, baixe [aqui](https://www.netacad.com/resources/lab-downloads?courseLang=pt-BR).
 
 # Membros da Empresa
 
